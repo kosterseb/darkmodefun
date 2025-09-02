@@ -77,6 +77,7 @@ const body = document.body;
                 body.classList.toggle('dark');
                 updateTexts();
             }, 100);
+            console.log(`Switched to ${isDark ? 'dark' : 'light'} mode`);
         });
 
         // Add some sparkle on button hover
