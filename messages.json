@@ -1,0 +1,80 @@
+{
+    "messages": {
+      "light": {
+        "titles": [
+          "Let there be light! ☀️",
+          "Sunshine state of mind! 🌅",
+          "Bright ideas only! 💡",
+          "Living on the bright side! ✨",
+          "Illuminating your day! 🌞",
+          "Rise and shine, champion! 🌄",
+          "Powered by sunshine! ⚡",
+          "Daylight savings activated! 🌤️",
+          "Brightness level: Maximum! 🔆",
+          "Solar panels fully charged! 🔋"
+        ],
+        "buttons": [
+          "Embrace the darkness",
+          "Join the dark side",
+          "Go incognito",
+          "Enter the void",
+          "Lights out",
+          "Summon the shadows",
+          "Activate night mode",
+          "Dim the world",
+          "Release the kraken... of darkness",
+          "Time for some mystery"
+        ]
+      },
+      "dark": {
+        "titles": [
+          "Welcome to the dark side! 🌙",
+          "Embracing the void! 🖤",
+          "Night mode activated! 🌃",
+          "Going stealth mode! 🥷",
+          "Into the darkness we go! 🌌",
+          "Midnight vibes unlocked! 🕛",
+          "Shadow realm entered! 👻",
+          "Nocturnal mode engaged! 🦉",
+          "Darkness is your friend! 🫶",
+          "Welcome to the matrix! 💊"
+        ],
+        "buttons": [
+          "Bring back the light",
+          "Illuminate the world",
+          "Rise and shine",
+          "Let there be light",
+          "Brighten things up",
+          "Summon the sun",
+          "Escape the void",
+          "Find the light switch",
+          "Channel your inner lighthouse",
+          "Time for some vitamin D"
+        ]
+      }
+    },
+    "loading": {
+      "titles": [
+        "Loading witty comments... 🤖",
+        "Brewing some humor... ☕",
+        "Generating sass... ✨"
+      ],
+      "buttons": [
+        "Please wait...",
+        "Loading...",
+        "Just a moment..."
+      ]
+    },
+    "error": {
+      "titles": [
+        "Oops! Wit.exe has stopped working! 🤷‍♂️",
+        "Error 404: Humor not found! 😅",
+        "Comedy server is down! 🎭"
+      ],
+      "buttons": [
+        "Try again",
+        "Reload humor",
+        "Reset wit"
+      ]
+    }
+  }
